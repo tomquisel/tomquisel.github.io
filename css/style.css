@@ -1,0 +1,119 @@
+body {
+    padding-top: 20px;
+}
+
+.content {
+    margin: auto;
+    width: 840px;
+    padding: 20px;
+}
+
+.heading {
+    border-bottom: 1px solid #bbb;
+}
+
+.heading .left {
+    width: 50%;
+    float: left;
+    display: inline-block;
+}
+
+.heading .right {
+    width: 50%;
+    display: inline-block;
+}
+
+.section {
+    clear: both;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.section-header {
+    float: left;
+    width: 100px;
+
+    font-size: 20px;
+    line-height: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-variant: small-caps;
+}
+
+.section-content {
+    padding-left: 120px;
+    width:100%;
+}
+
+ul {
+    padding-left: 40px;
+    text-indent: -40px;
+}
+
+li {
+    list-style-position: inside;
+}
+
+p.name {
+    margin: 0 0 1px 0;
+}
+
+.school {
+    display: inline-block;
+    float: left;
+    width: 50%;
+}
+
+div > div.school:first-child {
+    padding-right: 30px;
+}
+
+.school-name {
+    margin-bottom: 5px;
+}
+
+.twocol-l{
+    float: left;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.twocol-r {
+    padding-left: 10px;
+}
+
+.group-name, .group-name a {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    color: #02C236;
+}
+
+.group-name a:hover {
+    text-decoration: none;
+}
+
+.date, .location {
+    color: #bbb;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.company-braces {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+
+.skills .twocol-l {
+    width: 110px;
+}
+
+.skills .twocol-r {
+    margin-left: 110px;
+    width: 580px;
+    padding-bottom: 5px;
+}
+
+.skills :last-child {
+    padding-bottom: 0px;
+}
