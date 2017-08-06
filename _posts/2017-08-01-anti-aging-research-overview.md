@@ -80,19 +80,19 @@ Many promising interventions target the above processes.
 
 ### References
 
-[^1]: [https://en.wikipedia.org/wiki/List_of_longest-living_organisms](https://en.wikipedia.org/wiki/List_of_longest-living_organisms)
+[^1]: <https://en.wikipedia.org/wiki/List_of_longest-living_organisms>
 
-[^2]: [https://www.google.com/search?q=us+lifespan](https://www.google.com/search?q=us+lifespan)
+[^2]: <https://www.google.com/search?q=us+lifespan>
 
 [^3]: Kaeberlein, Matt, Peter S. Rabinovitch, and George M. Martin. "Healthy aging: The ultimate preventative medicine." Science 350.6265 (2015): 1191-1193.
 
-[^4]: [http://cen.gext.acs.org/articles/95/i10/hit-snooze-button-aging.html](http://cen.gext.acs.org/articles/95/i10/hit-snooze-button-aging.html)
+[^4]: <http://cen.gext.acs.org/articles/95/i10/hit-snooze-button-aging.html>
 
 [^5]: De, Abhijit, and Chandan Ghosh. "Basics of aging theories and disease related aging-an overview." PharmaTutor 5.2 (2017): 16-23.
 
-[^6]: [https://en.wikipedia.org/wiki/Resveratrol](https://en.wikipedia.org/wiki/Resveratrol)
+[^6]: <https://en.wikipedia.org/wiki/Resveratrol>
 
-[^7]: [https://en.wikipedia.org/wiki/Antioxidant](https://en.wikipedia.org/wiki/Antioxidant)
+[^7]: <https://en.wikipedia.org/wiki/Antioxidant>
 
 [^8]: Childs, Bennett G., et al. "Cellular senescence in aging and age-related disease: from mechanisms to therapy." Nature medicine 21.12 (2015): 1424-1435.
 
@@ -104,16 +104,16 @@ Many promising interventions target the above processes.
 
 [^12]: Kirkland, James L. "Translating Advances from the Basic Biology of Aging into Clinical Application." Experimental gerontology 48.1 (2013): 1–5. PMC. Web. 8 July 2017.
 
-[^13]: [https://clinicaltrials.gov/ct2/show/NCT02432287](https://clinicaltrials.gov/ct2/show/NCT02432287)
+[^13]: <https://clinicaltrials.gov/ct2/show/NCT02432287>
 
 [^14]: Ahlskog, J. Eric et al. "Physical Exercise as a Preventive or Disease-Modifying Treatment of Dementia and Brain Aging." Mayo Clinic Proceedings 86.9 (2011): 876–884. PMC. Web. 8 July 2017.
 
-[^15]: [https://en.wikipedia.org/wiki/Physical_exercise](https://en.wikipedia.org/wiki/Physical_exercise)
+[^15]: <https://en.wikipedia.org/wiki/Physical_exercise>
 
-[^16]: [http://www.cochrane.org/CD002968/ENDOC_exercise-for-type-2-diabetes-mellitus](http://www.cochrane.org/CD002968/ENDOC_exercise-for-type-2-diabetes-mellitus)
+[^16]: <http://www.cochrane.org/CD002968/ENDOC_exercise-for-type-2-diabetes-mellitus>
 
 [^17]: Schwingshackl, Lukas, et al. "Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies." The American Journal of Clinical Nutrition 105.6 (2017): 1462-1473.
 
 [^18]: Hughes MCB, Williams GM, Baker P, Green AC. Sunscreen and Prevention of Skin Aging: A Randomized Trial. Ann Intern Med. 2013;158:781-790. doi: 10.7326/0003-4819-158-11-201306040-00002
 
-[^19]: https://en.wikipedia.org/wiki/Sunscreen
+[^19]: <https://en.wikipedia.org/wiki/Sunscreen>
