@@ -1,9 +1,7 @@
 <div class="col-md-4 mt20">
-        <div class="post-img">
+        <div>
            {% if page.img %}
-            <img width="600" src="{{site.baseurl}}/images/{{page.img}}" alt="{{page.title}}">
-            {% else %}
-            <img width="600" src="{{site.baseurl}}/images/{{site.default-image}}" alt="webjeda">
+            <img width="200" class="img-circle" src="{{site.baseurl}}/images/{{page.img}}" alt="{{page.title}}">
             {% endif %}
         </div>
             
