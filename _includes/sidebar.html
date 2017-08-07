@@ -1,16 +1,20 @@
 <div class="col-md-4">
-        <div class="text-center">
-            <img width="200" class="rounded-circle" src="{{site.baseurl}}/images/{{page.img}}" alt="{{page.title}}">
-            <p class="text-muted"><small><em>Data Scientist, Tech Lead, Angel Investor</em><br> Santa Barbara, CA</small></p>
-            <div class="mt-5">
-                <h5>Recent Posts</h5> 
-                 <div class="list-group">
-                    {% for post in site.posts limit:3 %}
-                      <a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item list-group-item-action text-center">
-                          {{ post.title }}<small>&nbsp;&nbsp;{{ post.date | date_to_string }}</small>
-                      </a>
-                    {% endfor %}
-                  </div>
-            </div>
+  <div class="text-center">
+    {% if page.showme %}
+        <img width="200" class="rounded-circle" src="{{site.baseurl}}/images/tomquisel.jpg" alt="{{page.title}}">
+        <p class="text-muted"><small><em>Data Scientist, Tech Lead, Angel Investor</em><br> Santa Barbara, CA</small></p>
+    {% else if page.img %}
+        <img src="{{site.baseurl}}/images/{{page.img}}" class="img-fluid">
+    {% endif %}
+    <div class="mt-5">
+      <h5>Recent Posts</h5> 
+       <div class="list-group">
+          {% for post in site.posts limit:3 %}
+            <a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item list-group-item-action text-center">
+                {{ post.title }}<small>&nbsp;&nbsp;{{ post.date | date_to_string }}</small>
+            </a>
+          {% endfor %}
         </div>
+    </div>
+  </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-img: tomquisel.jpg
+showme: 1
 permalink: /
 ---
 Tom Quisel is the first Data Scientist at Evidation Health, where he has built much of the data processing pipeline and analytics environments. He focuses on delivering actionable insights and novel research from messy data using machine learning and statistics. He has 10 years of experience in the software industry and holds a BS in Computer Science at Carnegie Mellon University. Previously, Tom guided dating website OkCupid through acquisition by IAC and massive growth as its CTO. At OkCupid, he focused on servant leadership, empowering a top-tier technical team, using statistics to guide decisions, and building scalable distributed systems.
