@@ -5,18 +5,24 @@ permalink: /research/
 ---
 <div class="row justify-content-start">
 {% for paper in site.data.papers %}   
-    <div class="col-lg-4 col-md-6">
-        <div class="card">
+    <div class="col-lg-4 col-md-6 card-deck">
+        <div class="card mb-2">
             <!--Card image-->
             <div class="view overlay hm-zoom">
-                <img src="{{site.baseurl}}/images/{{paper.img}}" class="img-fluid" alt="">
-                <a href="#">
+                <img src="{{site.baseurl}}/images/{{paper.img}}" class="card-img-top" alt="">
+                <a href="{{paper.url}}" target="_blank">
                     <div class="mask"></div>
                 </a>
             </div>
-            <div class="card-body">
-                <div class="d-flex justify-content-between"><h4>{{paper.year}}</h4> <h4 class="text-right">{{paper.journal}}</h4></div>
+            <div class="card-block">
+                <div class="d-flex justify-content-between">
+                    <h4>{{paper.journal}}</h4> <div class="text-right">{{paper.year}}</div>
+                </div>
+                <hr>
                 <p class="card-text">{{paper.title}}</p>
+                <div class="text-center">
+                    <a href="{{paper.url}}" target="_blank" class="btn btn-primary">Read More</a>
+                </div>
             </div>
         </div>
     </div>

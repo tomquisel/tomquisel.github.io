@@ -3,3 +3,33 @@
   year: 2009
   journal: Genome biology
   img: 2009-circadian.png
+- title: Adherent use of digital health trackers is associated with weight loss
+  url: "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152504"
+  year: 2016
+  journal: PLOS ONE
+  img: 2016-adherent.png
+- title: Observation Time vs. Performance in Digital Phenotyping
+  url: "http://www.evidation.com/assets/research/observation-time-vs-performance-in-digital-phenotyping.pdf"
+  year: 2017
+  journal: ACM MobiSys
+  img: 2017-obstime.png
+- title: Intra-day Activity Better Predicts Chronic Conditions
+  url: "https://arxiv.org/pdf/1612.01200.pdf"
+  year: 2016
+  journal: NIPS ML4HC Workshop
+  img: 2016-intraday.png
+- title: Self-Care Tracking and Blood Glucose Stability Among One Drop Mobile App Users
+  url: "http://www.evidation.com/assets/self-care-tracking-and-blood-glucose-stability-among-one-drop-mobile-app-users.pdf"
+  year: 2017
+  journal: SBM
+  img: 2017-onedrop.png
+- title: Restless Sleep is Associated with Weight Gain
+  url: "http://www.evidation.com/assets/restless-sleep-is-associated-with-weight-gain-a-within-subject-analysis.pdf"
+  year: 2017
+  journal: SBM
+  img: 2017-sleep.png
+- title: Improving Heart Failure Unit Readmission Prediction
+  url: "http://www.evidation.com/assets/improving-heart-failure-unit-readmission-prediction.pdf"
+  year: 2017
+  journal: ACC
+  img: 2017-readmission.png
