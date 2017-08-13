@@ -1,23 +1,8 @@
-- title: Exploring the transcriptional landscape of plant circadian rhythms using genome tiling arrays
-  url: "https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-2-r17"
-  year: 2009
-  journal: Genome biology
-  img: 2009-circadian.png
-- title: Adherent use of digital health trackers is associated with weight loss
-  url: "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152504"
-  year: 2016
-  journal: PLOS ONE
-  img: 2016-adherent.png
 - title: Observation Time vs. Performance in Digital Phenotyping
   url: "http://www.evidation.com/assets/research/observation-time-vs-performance-in-digital-phenotyping.pdf"
   year: 2017
   journal: ACM MobiSys
   img: 2017-obstime.png
-- title: Intra-day Activity Better Predicts Chronic Conditions
-  url: "https://arxiv.org/pdf/1612.01200.pdf"
-  year: 2016
-  journal: NIPS ML4HC Workshop
-  img: 2016-intraday.png
 - title: Self-Care Tracking and Blood Glucose Stability Among One Drop Mobile App Users
   url: "http://www.evidation.com/assets/self-care-tracking-and-blood-glucose-stability-among-one-drop-mobile-app-users.pdf"
   year: 2017
@@ -33,3 +18,32 @@
   year: 2017
   journal: ACC
   img: 2017-readmission.png
+- title: Digital Trackers show that High Intensity Exercising and Consistent Sleep patterns are Associated with Positive Self-Reported Health Status
+  url: "http://www.evidation.com/assets/research/digital-trackers-show-that-high-intensity-exercising-and-consistent-sleep-patterns-are-associated-with-positive-self-reported-health-status.pdf"
+  year: 2017
+  journal: ISPOR
+- title: Adherent use of digital health trackers is associated with weight loss
+  url: "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152504"
+  year: 2016
+  journal: PLOS ONE
+  img: 2016-adherent.png
+- title: Intra-day Activity Better Predicts Chronic Conditions
+  url: "https://arxiv.org/pdf/1612.01200.pdf"
+  year: 2016
+  journal: NIPS ML4HC Workshop
+  img: 2016-intraday.png
+- title: "The Impact of an Online Crowdsourcing Diagnostic Tool on Health Care Utilization: A Case Study Using a Novel Approach to Retrospective Claims Analysis"
+  url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4909973/"
+  year: 2016
+  journal: JMIR
+  img: 2016-crowdmed.png
+- title: Behavioral Phenotyping of Digital Health Tracker Data
+  url: "http://www.evidation.com/assets/research/behavioral-phenotyping-of-digital-health-tracker-data.pdf"
+  year: 2016
+  journal: SDM DMMH Workshop
+  img: 2016-phenotyping.png
+- title: Exploring the transcriptional landscape of plant circadian rhythms using genome tiling arrays
+  url: "https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-2-r17"
+  year: 2009
+  journal: Genome biology
+  img: 2009-circadian.png

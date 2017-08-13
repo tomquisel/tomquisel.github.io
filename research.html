@@ -7,18 +7,21 @@ permalink: /research/
 {% for paper in site.data.papers %}   
     <div class="col-lg-4 col-md-6 card-deck">
         <div class="card mb-2">
+            <div class="card-header">
+                <div class="d-flex justify-content-between">
+                    <h4>{{paper.journal}}</h4> <div class="text-right">{{paper.year}}</div>
+                </div>
+            </div>
             <!--Card image-->
+            {% if paper.img %}
             <div class="view overlay hm-zoom">
                 <img src="{{site.baseurl}}/images/{{paper.img}}" class="card-img-top" alt="">
                 <a href="{{paper.url}}" target="_blank">
                     <div class="mask"></div>
                 </a>
             </div>
+            {% endif %}
             <div class="card-block">
-                <div class="d-flex justify-content-between">
-                    <h4>{{paper.journal}}</h4> <div class="text-right">{{paper.year}}</div>
-                </div>
-                <hr>
                 <p class="card-text">{{paper.title}}</p>
                 <div class="text-center">
                     <a href="{{paper.url}}" target="_blank" class="btn btn-primary">Read More</a>
