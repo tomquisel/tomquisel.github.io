@@ -1,0 +1,6 @@
+{% capture header %}
+    <div class="d-flex justify-content-between">
+        <h4>{{paper.journal}}</h4> <div class="text-right">{{paper.year}}</div>
+    </div>
+{% endcapture %}
+{% include card.html header=header img=paper.img url=paper.url text=paper.title %}
