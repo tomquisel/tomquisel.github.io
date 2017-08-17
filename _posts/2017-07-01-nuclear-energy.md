@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Nuclear Energy: Risks & Benefits"
-img: nuclear-image3.png
-excerpt: A factual overview of the risks and benefits of nuclear energy.
+title: "Nuclear Energy: Costs & Benefits"
+img: nuclear-cover.png
+excerpt: A fact-focused overview of the costs and benefits of nuclear energy.
 ---
-These are notes from a recent presentation. They serve as a factual overview of the issues surrounding nuclear energy.
+These are notes from a recent presentation that give an overview of nuclear energy and the considerations surrounding it.
 
 ![Annual share of U.S. electricity generation by source](../images/nuclear-image0.png)
 

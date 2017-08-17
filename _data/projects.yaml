@@ -1,0 +1,14 @@
+- name: Is It Flyable
+  url: "http://www.isitflyable.com"
+  text: Forecasts for paragliders that combine weather and flying site data
+  img: isitflyable.png
+
+- name: La Maison Santa Barbara
+  url: "http://www.maisonsantabarbara.com"
+  text: Owner of a boutique vacation rental in downtown Santa Barbara
+  img: lamaison.png
+
+- name: Vacation Rental Dashboard
+  url: "http://tomquisel.com/airbnb_dash/Santa_Barbara/2017-08-15/"
+  text: Dashboard that allows vacation rental owners to monitor local market conditions
+  img: vrdashboard.png

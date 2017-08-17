@@ -18,6 +18,11 @@
                 <a href="{{include.url}}" target="_blank" class="btn btn-primary">Read More</a>
             </div>
         </div>
+        {% if include.footer %}
+        <div class="card-footer pt-0">
+            {{include.footer}}
+        </div>
+        {% endif %}
     </div>
 </div>
 

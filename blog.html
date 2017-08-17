@@ -5,8 +5,12 @@ permalink: /blog/
 ---
 <div class="row justify-content-start">
 {% for post in site.posts %}
-    {% capture header %}{{ post.date | date: "%b %-d, %Y" }}{% endcapture %}
     {% capture link %}{{ post.url | prepend: site.baseurl }}{% endcapture %}
-    {% include card.html header=post.title img=post.img url=link text=post.title%}
+    {% capture footer %}
+    <small class="text-muted">
+        {{ post.date | date: "%B %-d, %Y" }}
+    </small>
+    {% endcapture %}
+    {% include card.html header=post.title img=post.img url=link footer=footer text=post.excerpt%}
 {% endfor %}
 </div>

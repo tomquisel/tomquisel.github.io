@@ -1,3 +1,7 @@
 .thin {
     font-weight: 200;
 }
+
+.cropped {
+    object-fit: cover;
+}
