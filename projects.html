@@ -6,6 +6,8 @@ permalink: /projects/
 <div class="row justify-content-start">
 {% for project in site.data.projects %}
     {% capture link %}{{ project.url | prepend: site.baseurl }}{% endcapture %}
-    {% include card.html header=project.name img=project.img url=link text=project.text %}
+    {% include card.html header=project.name img=project.img url=link text=project.text 
+        button_text="Check it out"
+    %}
 {% endfor %}
 </div>
