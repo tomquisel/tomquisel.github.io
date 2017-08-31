@@ -16,7 +16,7 @@ Avg. lifespan in the US is 76 for men, 81 for women.
 
 From 1990-2014, it increased consistently at a rate of 1 year of life per 7 years.[^2]
 
-![US Lifespan over time](../images/aging-image1.png)
+![US Lifespan over time](../images/aging-image1.png){: .img-fluid}
 
 Biological aging is observable as an increase in mortality rate with age, and is the greatest risk factor for nearly every cause of mortality, including heart disease, cancer, diabetes, stroke, and cognitive decline.[^3]
 

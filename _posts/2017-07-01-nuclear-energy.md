@@ -6,7 +6,7 @@ excerpt: A fact-focused overview of the costs and benefits of nuclear energy.
 ---
 These are notes from a recent presentation that give an overview of nuclear energy and the considerations surrounding it.
 
-![Annual share of U.S. electricity generation by source](../images/nuclear-image0.png)
+![Annual share of U.S. electricity generation by source](../images/nuclear-image0.png){: .img-fluid}
 
 ### Nuclear Construction
 
@@ -18,7 +18,7 @@ These are notes from a recent presentation that give an overview of nuclear ener
 
 ### Energy-related Fatalities
 
-![Table of energy-related fatalities](../images/nuclear-image1.png)
+![Table of energy-related fatalities](../images/nuclear-image1.png){: .img-fluid}
 
 **Coal:** Historically, coal mining has been a very dangerous activity and the
 list of historical[ coal](https://en.wikipedia.org/wiki/Coal)[ mining
@@ -63,11 +63,11 @@ There is an "international consensus on the advisability of storing nuclear wast
 
 ### Cost Competitiveness
 
-![Cost comparison across energy sources](../images/nuclear-image2.png)
+![Cost comparison across energy sources](../images/nuclear-image2.png){: .img-fluid}
 
 ### New Reactor Designs
 
-![New reactor designs](../images/nuclear-image3.png)
+![New reactor designs](../images/nuclear-image3.png){: .img-fluid}
 
 * Passive safety systems
 * Reduced cost of construction & operation (but not yet clear exactly how much)
@@ -78,7 +78,7 @@ Observers attribute the nuclear controversy to the impossibility of generating
 a shared perception between social actors over the use of this technology[^14]
 as well as systemic mismatches between expectations and experience.
 
-![Public sentiment on different energy sources](../images/nuclear-image4.png)
+![Public sentiment on different energy sources](../images/nuclear-image4.png){: .img-fluid}
 
 Arguments in favor:
 
