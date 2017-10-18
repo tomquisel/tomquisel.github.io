@@ -13,13 +13,13 @@ body {
 }
 
 .heading .left {
-    width: 50%;
+    width: 60%;
     float: left;
     display: inline-block;
 }
 
 .heading .right {
-    width: 50%;
+    width: 40%;
     display: inline-block;
 }
 

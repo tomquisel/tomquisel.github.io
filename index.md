@@ -10,6 +10,6 @@ I first worked at [OkCupid](https://www.okcupid.com), growing from a Software En
 
 I now work as the Principal Data Scientist at [Evidation Health](http://www.evidation.com/), doing [Research]({{site.baseurl}}/research/) and focusing on improving healthcare through better targeting of treatments and understanding of patient health.
 
-On the side I do angel investing, work on [projects]({{site.baseurl}}/projects/), collaborate with the amazing startup community here in Santa Barbara, and contribute to important problems for humanity such as [anti-aging research](http://127.0.0.1:4000/anti-aging-research-overview/).
+On the side I do angel investing, work on [projects]({{site.baseurl}}/projects/), collaborate with the amazing startup community here in Santa Barbara, and contribute to important problems for humanity such as [anti-aging research]({{site.baseurl}}/anti-aging-research-overview/).
 
 Outside of work, I love going outdoors to hike, bike, run, and practice acroyoga or heading to a local coffee shop to learn more about our world through Coursera, TED Talks, and research papers.
