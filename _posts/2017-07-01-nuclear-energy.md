@@ -2,9 +2,9 @@
 layout: post
 title: "Nuclear Energy: Costs & Benefits"
 img: nuclear-cover.png
-excerpt: A fact-focused overview of the costs and benefits of nuclear energy.
+excerpt: An overview of the costs and benefits of nuclear energy
 ---
-These are notes from a recent presentation that give an overview of nuclear energy and the considerations surrounding it.
+These are notes from a recent presentation I gave on nuclear energy and the considerations surrounding it.
 
 ![Annual share of U.S. electricity generation by source](../images/nuclear-image0.png){: .img-fluid}
 

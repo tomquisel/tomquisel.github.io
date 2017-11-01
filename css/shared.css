@@ -5,3 +5,9 @@
 .cropped {
     object-fit: cover;
 }
+
+.card-block {
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+}

@@ -2,9 +2,9 @@
 layout: post
 title: "Anti-Aging Research"
 img: aging-image1.png
-excerpt: A review of the latest anti-aging research and treatments.
+excerpt: A review of recent anti-aging research and treatments
 ---
-These are notes from a recent presentation. They serve as a very terse review of anti-aging research as it stands today.
+These are notes from a recent presentation I gave on the state of anti-aging research and potential interventions.
 
 ### Context
 

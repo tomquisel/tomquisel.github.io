@@ -1,3 +1,8 @@
+- title: Collecting and Analyzing Millions of mHealth Data Streams
+  url: "http://www-scf.usc.edu/~dkale/papers/evidation-kdd2017-million_mhealth.pdf"
+  year: 2017
+  journal: ACM SIGKDD
+  img: 2017-kdd.png
 - title: Observation Time vs. Performance in Digital Phenotyping
   url: "http://www.evidation.com/assets/research/observation-time-vs-performance-in-digital-phenotyping.pdf"
   year: 2017
@@ -44,6 +49,11 @@
   img: 2016-phenotyping.png
 - title: Exploring the transcriptional landscape of plant circadian rhythms using genome tiling arrays
   url: "https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-2-r17"
-  year: 2009
+  year: 2005
   journal: Genome biology
   img: 2009-circadian.png
+- title: Creating multi-modal, user-centric records of meetings with the carnegie mellon meeting recorder architecture
+  url: "http://repository.cmu.edu/cgi/viewcontent.cgi?article=2384&context=compsci"
+  year: 2004
+  journal: IEEE ICASSP
+  img: 2004-calo.png
