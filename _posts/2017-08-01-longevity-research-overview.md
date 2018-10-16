@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Anti-Aging Research"
+title: "Longevity Research"
 img: aging-image1.png
-excerpt: A review of recent anti-aging research and treatments
+excerpt: A review of recent longevity research and treatments
 ---
-These are notes from a recent presentation I gave on the state of anti-aging research and potential interventions.
+These are notes from a recent presentation I gave on the state of longevity research and potential interventions.
 
 ### Context
 
@@ -28,7 +28,7 @@ Most researchers agree that antagonistic pleiotropy is the leading explanation.[
 
 **The idea:** genes that increase the odds of successful reproduction early in life may have deleterious effects later in life. Because the gene’s harmful effects do not appear until after reproduction is over, they cannot be eliminated through natural selection.[^5]
 
-### Why is there hope for anti-aging interventions? 					
+### Why is there hope for longevity interventions? 					
 
 By the late 1990s, researchers had found that single mutations could triple the lives of of *C. elegans* (a small worm), and similar mutations were found for fruit flies, mice, and other organisms.[^4] This gives hope that the same could be found for humans.
 
@@ -64,7 +64,7 @@ Many promising interventions target the above processes.
 
 **Young Blood:** Mouse experiments have shown rejuvenation of old mice when they are given transfusions of young blood. Researchers are looking for molecular differences in young blood to find a pharmacological alternative.[^4]
 
-**Metformin:** First-line treatment for diabetes in use since the 50s with very few side effects. Patients with diabetes taking metformin had longer lives than a healthy control without diabetes. In clinical trials now as anti-aging intervention, the first trial concludes at the end of 2017.[^4] [^13]
+**Metformin:** First-line treatment for diabetes in use since the 50s with very few side effects. Patients with diabetes taking metformin had longer lives than a healthy control without diabetes. In clinical trials now as longevity intervention, the first trial concludes at the end of 2017.[^4] [^13]
 
 **Rapamycin Analogs:** Used as immune system suppressant during organ transplants. Shown to rejuvenate elderly immune systems by Novartis in 2014. Elderly patients, who respond less to flu vaccines, had an improved response after 2 weeks of taking a rapamycin analog. The rapamycin pathway (mTOR) tweaks immune systems and suppresses deleterious senescent cell secretions. It also extends mouse lifespans.[^4] [^12]
 
