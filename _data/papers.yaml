@@ -1,8 +1,13 @@
-- title: Collecting and Analyzing Millions of mHealth Data Streams
-  url: "http://www-scf.usc.edu/~dkale/papers/evidation-kdd2017-million_mhealth.pdf"
-  year: 2017
-  journal: ACM SIGKDD
-  img: 2017-kdd.png
+- title: "Quantifying the Impact of Influenza Among Persons With Type 2 Diabetes Mellitus: A New Approach to Determine Medical and Physical Activity Impact"
+  url: "https://journals.sagepub.com/doi/full/10.1177/1932296819883340"
+  year: 2019
+  journal: JDST
+  img: 2019-dbt2.png
+- title: "The Association Between Medication Adherence for Chronic Conditions and Digital Health Activity Tracking: Retrospective Analysis"
+  url: "https://www.jmir.org/2019/3/e11486/"
+  year: 2019
+  journal: JMIR
+  img: 2019-adh.png
 - title: Observation Time vs. Performance in Digital Phenotyping
   url: "https://evidation.com/wp-content/uploads/2017/10/observation-time-vs-performance-in-digital-phenotyping.pdf"
   year: 2017

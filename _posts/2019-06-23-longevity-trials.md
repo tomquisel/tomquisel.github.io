@@ -1,4 +1,9 @@
-# Challenges in Human Healthspan Trials
+---
+layout: post
+title: "Challenges in Human Healthspan Trials"
+img: longevity2_image_0.png
+excerpt: Why it's so hard to study human healthspan interventions and an alternative approach
+---
 
 No study has yet convincingly demonstrated a drug that can increase [healthspan](https://publichealth.wustl.edu/heatlhspan-is-more-important-than-lifespan-so-why-dont-more-people-know-about-it/) in humans. There have been randomized controlled trials (RCTs) in model organisms such as mice and *c. elegans* finding a wide variety of dietary, genetic, pharmacological, and exercise interventions that extend lifespan [^1], but these results have not been replicated in humans. There have been observational studies showing promising results for calorie restriction and exercise in humans, but more human RCTs are needed to be confident in the results.
 
