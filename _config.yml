@@ -53,8 +53,4 @@ sass:
 
 plugins:
 - jekyll-seo-tag
-
-# Ruby Gems
-gems: [jekyll-paginate, jekyll-seo-tag]
-#gems: [jekyll-paginate]
-
+- jekyll-paginate
