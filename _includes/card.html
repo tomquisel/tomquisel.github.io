@@ -15,7 +15,7 @@
         <div class="card-block">
             <p class="card-text">{{include.text}}</p>
             <div class="text-center align-items-end">
-                <a href="{{include.url}}" target="_blank" class="btn btn-primary">{{include.button_text | default: "Read More"}}</a>
+                <a href="{{include.url}}" class="btn btn-primary">{{include.button_text | default: "Read More"}}</a>
             </div>
         </div>
         {% if include.footer %}
