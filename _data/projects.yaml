@@ -1,14 +1,14 @@
-- name: Is It Flyable
-  url: "http://www.isitflyable.com"
-  text: A forecast website for paragliders that combines weather and flying site info
-  img: isitflyable.png
-
-- name: La Maison Santa Barbara
-  url: "http://www.maisonsantabarbara.com"
-  text: I own and co-manage a boutique vacation rental in downtown Santa Barbara
-  img: lamaison.png
+- name: Accountable Clinical Trials
+  url: "https://accountabletrials.org/"
+  text: An app that tracks clinical trial results and how often they're reported late or not at all
+  img: accountable_trials.png
 
 - name: Vacation Rental Dashboard
   url: "http://tomquisel.com/airbnb_dash/Santa_Barbara/2017-08-15/"
   text: A dashboard that helps vacation rental owners monitor local market conditions
   img: vrdashboard.png
+
+- name: Senescence Analysis
+  url: "https://github.com/tomquisel/senescence"
+  text: A fun bioinformatics analysis to identify novel genes likely involved in cellular senescence
+  img: senescence.png
