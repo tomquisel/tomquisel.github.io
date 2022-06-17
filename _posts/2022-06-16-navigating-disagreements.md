@@ -21,7 +21,7 @@ All the techniques in the world for having a productive difficult conversation w
 
 ### Show up with the right mindset
 
-Your mindset will subconsciously impact the flow of the conversation. Take some time before the conversation to set the framing in your mind. The best is to sincerely view yourself and the other person as two humans with needs and desires that are on equal footing. You may be representing your company in the conversation, but this doesn't make your desire more important. If you place a high value on their needs, they’ll do the same for you and the company. You’ll find collaborative and creative solutions that are far better than what happens when you impose your "more important" desires on a/her person.
+Your mindset will subconsciously impact the flow of the conversation. Take some time before the conversation to set the framing in your mind. The best is to sincerely view yourself and the other person as two humans with needs and desires that are on equal footing. You may be representing your company in the conversation, but this doesn't make your desire more important. If you place a high value on their needs, they’ll do the same for you and the company. You’ll find collaborative and creative solutions that are far better than what happens when you impose your "more important" desires on another person.
 
 Take the opposite scenario. If you show up blaming the other person, feeling bitterness, or feeling that your views are right and their views don't matter much, you won't _really_ be able to hide it. You may deliver the message perfectly, but most people will feel the insincerity and the conversation will erode trust.
 
