@@ -106,7 +106,7 @@ If the issues have improved down the road, recognize that, and express your appr
 
 At the end of the day, dealing with disagreements and conflicts in a productive way can strengthen relationships and is essential to succeeding in a leadership role. Whether you're just starting out or you're a seasoned leader, I hope you find these tips helpful and I wish you success and continual growth on your journey.
 
-![A Rainbow](https://user-images.githubusercontent.com/1427679/174394927-bb51d82a-dbb5-41c0-84ce-64ff4fe1d194.jpg)
+![A Rainbow](https://user-images.githubusercontent.com/1427679/174394927-bb51d82a-dbb5-41c0-84ce-64ff4fe1d194.jpg){: .img-fluid}
 
 ### Footnotes
 
