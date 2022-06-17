@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Navigating Disagreements"
+title: "Navigating Disagreements as a Leader"
 img: chris-sabor-qlaot0VrqTM-unsplash.jpg
 excerpt: What I wish I knew about disagreements as a new engineering leader
 ---
-
-# Navigating Disagreements as a Leader
 
 <img src="../images/chris-sabor-qlaot0VrqTM-unsplash.jpg" width="400" /><br/>Don't be these birds.
 
@@ -17,17 +15,17 @@ Looking back, I was tragically naive. The conversation wasn’t really about fin
 
 Here's the advice I wish I’d heard as a new leader.
 
-### 1. Everything is easier if you already have a good relationship
+### It's easier if you have a good relationship
 
 All the techniques in the world for having a productive difficult conversation won’t matter if the other person doesn’t feel safe and respected. By the same token, if the other person feels kinship with you, they’ll be more likely to assume the best even if you bungle your delivery in the conversation.
 
-### 2. Show up with the right mindset
+### Show up with the right mindset
 
 Your mindset will subconsciously impact the flow of the conversation. Take some time before the conversation to set the framing in your mind. The best is to sincerely view yourself and the other person as two humans with needs and desires that are on equal footing. You may be representing your company in the conversation, but this does not make your desire more important. If you place a high value on their needs, they’ll do the same for you and the company. You’ll find collaborative and creative solutions that are far better than what happens when you impose your "more important" desires on another person.
 
 Take the opposite scenario. If you show up blaming the other person, feeling bitterness, or feeling that your views are right and their views don't matter much, you won't _really_ be able to hide it. You may deliver the message perfectly, but most people will feel the insincerity and the conversation will erode trust.
 
-### 3. Be strategic about timing and context
+### Be strategic about timing and context
 
 Have difficult 1:1 conversations in private. This helps to establish psychological safety by reducing the involvement of ego and the need to save face in front of others.
 
@@ -41,17 +39,17 @@ That said, waiting too long can be a signal of importance to the other party. If
 
 Having a regular standing meeting time reduces the unsettling impact of an unexpected 1:1 showing up on the calendar, and can be a more casual setting to discuss a disagreement or deliver feedback.
 
-### 4. Make the conversation opt-in
+### Make the conversation opt-in
 
 Get consent before starting. You can ask if it’s a good time to discuss an issue and suggest that you’re also happy to discuss at another time that week if it’s better for them. This reduces the feeling that they have to say “yes” to discussing now.
 
-### 5. Set the stage
+### Set the stage
 
 You can create a warm, inviting space by sincerely sharing something that you admire about the person or about how they handled the situation you’re going to bring up. Acknowledge their effort. And of course, make sure that conflict is not the only time you praise your teammates.
 
 You can also emphasize shared goals or context. For example, “we’ve both been in a tough situation with the shorthanded team recently” or “I know we’re both really passionate about releasing the product on time, and we’re working hard to hit that goal.”  This can help you “get on the same side of the issue”[^1] and create a collaborative environment for handling the disagreement. After all, neither of you want to be in a state of disagreement, and it's a shared issue that can be best addressed by working together. 
 
-### 6. Begin with curiosity
+### Begin with curiosity
 
 If there's a disagreement, you’ve likely misunderstood the situation, their intentions, or even their actions. Bring up the topic in a non-judgemental way and then listen to them with genuine curiosity. Practice active listening by paraphrasing what they’ve shared. You can tell you’re succeeding at listening rather than telling if you hear them say “that’s right” not “you’re right”.[^2]
 
@@ -62,13 +60,13 @@ By listening first, you accomplish several goals:
 * It gives them a chance to address the disagreement before you even mention it, giving them greater agency in resolving it.
 * Once you understand how they think about the issue, you can get your point across more effectively.
 
-### 7. Customize
+### Customize
 
 Some people are more sensitive and need only the slightest mention of a piece of feedback to fully internalize it. Others have a harder time hearing feedback or lack the context and will benefit from a more thorough discussion. Knowing your audience can make the conversation much easier.
 
 One approach I like for delivering feedback is to progress in stages from a gentle nudge to a full explicit statement of the issue and its implications. I stop as soon as the message is received. This avoids being too heavy-handed with someone sensitive, which can be demoralizing.
 
-### 8. Share your desires non-judgmentally
+### Share your desires non-judgmentally
 
 People may magnify the seriousness of an issue or take it personally. If the issue isn’t a big deal, share that. Set a light-hearted tone if you can so the other person doesn't feel that their reputation is on the line.
 
@@ -80,11 +78,11 @@ Other ways to keep it non-judgemental:
 * Focus on what can be changed going forward and avoid dredging up past events.
 * Keep the conversation to the current issue rather than broadening it to other issues.
 
-### 9. Include them in the problem solving
+### Include them in the problem solving
 
 Ask them for their ideas on how to prevent the issue going forward. The key word there is "ask" as telling them how to change their behavior can create conflict. They’ll feel a sense of ownership if they choose how to move forward. They’ll likely come up with ideas you hadn’t thought of, which can help you learn. If it doesn’t seem like they’re coming up with strong solutions, offer suggestions. The goal is not only to come up with ways they can change, but also identify ways that your behavior or the greater context could be adjusted to solve the problem.
 
-### 10. De-escalation
+### De-escalation
 
 Sometimes a conversation will get heated. When this happens, pause and take a step back. Anger means that one or both of you isn’t really able to listen, and so the conversation won’t be productive.
 
@@ -94,11 +92,11 @@ A few things you can do:
 * If they’re triggered, you can mirror what they’re saying [^3] to be sure they feel heard, or use the “taking the wind out of their sails approach” described by David Burns[^4].
 * Ask for a pause. This can be a minute of silence together in the room, a ten minute walk, or waiting until tomorrow to resume dialog.
 
-### 11. Check in
+### Check in
 
 Ask them to see if they feel heard and understood. Is anything coming up for them that they’d like to share? Confirm both of your agreed-upon action items for changing things going forward.
 
-### 10. Follow up
+### Follow up
 
 If the issues have improved down the road, recognize that, and express your appreciation to them. If not, check in with them and decide how to course-correct.
 
