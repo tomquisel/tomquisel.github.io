@@ -55,10 +55,10 @@ If there's a disagreement, you’ve likely misunderstood the situation, their in
 
 By listening first, you accomplish several goals:
 
-* You can correct any of your own misunderstandings. This alone may resolve the issue.
-* People will be more comfortable listening to you once they feel heard.
-* It gives them a chance to address the disagreement before you even mention it, giving them greater agency in resolving it.
-* Once you understand how they think about the issue, you can get your point across more effectively.
+1. You can correct any of your own misunderstandings. This alone may resolve the issue.
+1. People will be more comfortable listening to you once they feel heard.
+1. It gives them a chance to address the disagreement before you even mention it, giving them greater agency in resolving it.
+1. Once you understand how they think about the issue, you can get your point across more effectively.
 
 ### Customize
 
@@ -74,9 +74,9 @@ When more detail is necessary, [Non-Violent Communication](https://www.clearerth
 
 Other ways to keep it non-judgemental:
 
-* Avoid interpreting their behavior and making assumptions. Instead, ask them about their intentions.
-* Focus on what can be changed going forward and avoid dredging up past events.
-* Keep the conversation to the current issue rather than broadening it to other issues.
+1. Avoid interpreting their behavior and making assumptions. Instead, ask them about their intentions.
+1. Focus on what can be changed going forward and avoid dredging up past events.
+1. Keep the conversation to the current issue rather than broadening it to other issues.
 
 ### Include them in the problem solving
 
@@ -88,9 +88,9 @@ Sometimes a conversation will get heated. When this happens, pause and take a st
 
 A few things you can do:
 
-* If you’re triggered, slow down your reaction time to what they say and your breathing. For example, try [Box Breathing](https://health.clevelandclinic.org/box-breathing-benefits/).
-* If they’re triggered, you can mirror what they’re saying [^3] to be sure they feel heard, or use the “taking the wind out of their sails approach” described by David Burns[^4].
-* Ask for a pause. This can be a minute of silence together in the room, a ten minute walk, or waiting until tomorrow to resume dialog.
+1. If you’re triggered, slow down your reaction time to what they say and your breathing. For example, try [Box Breathing](https://health.clevelandclinic.org/box-breathing-benefits/).
+1. If they’re triggered, you can mirror what they’re saying [^3] to be sure they feel heard, or use the “taking the wind out of their sails approach” described by David Burns[^4].
+1. Ask for a pause. This can be a minute of silence together in the room, a ten minute walk, or waiting until tomorrow to resume dialog.
 
 ### Check in
 
