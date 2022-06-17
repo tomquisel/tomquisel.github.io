@@ -5,7 +5,7 @@ img: chris-sabor-qlaot0VrqTM-unsplash.jpg
 excerpt: What I wish I knew about disagreements as a new engineering leader
 ---
 
-<img src="../images/chris-sabor-qlaot0VrqTM-unsplash.jpg" width="400" /><br/>Don't be these birds.
+<img src="../images/chris-sabor-qlaot0VrqTM-unsplash.jpg" width="400" alt="Two birds fighting"/><br/>Don't be these birds.
 
 I started leading the engineering team at OkCupid early in my career at the age of 24, after working for 3 years as a Software Engineer. It was an incredible opportunity to be given so much responsibility, but it came with many new challenges. Disagreements were new territory for me, and I found a variety of conversations ranging from giving feedback to salary negotiations to disagreeing about software design pretty uncomfortable.
 
@@ -107,6 +107,7 @@ If the issues have improved down the road, recognize that, and express your appr
 At the end of the day, dealing with disagreements and conflicts in a productive way can strengthen relationships and is essential to succeeding in a leadership role. Whether you're just starting out or you're a seasoned leader, I hope you find these tips helpful and I wish you success and continual growth on your journey.
 
 ![A Rainbow](https://user-images.githubusercontent.com/1427679/174394927-bb51d82a-dbb5-41c0-84ce-64ff4fe1d194.jpg){: .img-fluid}
+Photos by [Todd Cravens](https://unsplash.com/@toddcravens) and [Chris Sabor](https://unsplash.com/@chrissabor) on Unsplash.
 
 ### Footnotes
 
