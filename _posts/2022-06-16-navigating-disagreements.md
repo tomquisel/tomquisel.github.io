@@ -21,7 +21,7 @@ All the techniques in the world for having a productive difficult conversation w
 
 ### Show up with the right mindset
 
-Your mindset will subconsciously impact the flow of the conversation. Take some time before the conversation to set the framing in your mind. The best is to sincerely view yourself and the other person as two humans with needs and desires that are on equal footing. You may be representing your company in the conversation, but this does not make your desire more important. If you place a high value on their needs, they’ll do the same for you and the company. You’ll find collaborative and creative solutions that are far better than what happens when you impose your "more important" desires on another person.
+Your mindset will subconsciously impact the flow of the conversation. Take some time before the conversation to set the framing in your mind. The best is to sincerely view yourself and the other person as two humans with needs and desires that are on equal footing. You may be representing your company in the conversation, but this doesn't make your desire more important. If you place a high value on their needs, they’ll do the same for you and the company. You’ll find collaborative and creative solutions that are far better than what happens when you impose your "more important" desires on a/her person.
 
 Take the opposite scenario. If you show up blaming the other person, feeling bitterness, or feeling that your views are right and their views don't matter much, you won't _really_ be able to hide it. You may deliver the message perfectly, but most people will feel the insincerity and the conversation will erode trust.
 
@@ -45,7 +45,7 @@ Get consent before starting. You can ask if it’s a good time to discuss an iss
 
 ### Set the stage
 
-You can create a warm, inviting space by sincerely sharing something that you admire about the person or about how they handled the situation you’re going to bring up. Acknowledge their effort. And of course, make sure that conflict is not the only time you praise your teammates.
+You can create a warm, inviting space by sincerely sharing something that you admire about the person or about how they handled the situation you’re going to bring up. Acknowledge their effort. And of course, make sure that conflict isn't the only time you praise your teammates.
 
 You can also emphasize shared goals or context. For example, “we’ve both been in a tough situation with the shorthanded team recently” or “I know we’re both really passionate about releasing the product on time, and we’re working hard to hit that goal.”  This can help you “get on the same side of the issue”[^1] and create a collaborative environment for handling the disagreement. After all, neither of you want to be in a state of disagreement, and it's a shared issue that can be best addressed by working together. 
 
@@ -80,7 +80,7 @@ Other ways to keep it non-judgemental:
 
 ### Include them in the problem solving
 
-Ask them for their ideas on how to prevent the issue going forward. The key word there is "ask" as telling them how to change their behavior can create conflict. They’ll feel a sense of ownership if they choose how to move forward. They’ll likely come up with ideas you hadn’t thought of, which can help you learn. If it doesn’t seem like they’re coming up with strong solutions, offer suggestions. The goal is not only to come up with ways they can change, but also identify ways that your behavior or the greater context could be adjusted to solve the problem.
+Ask them for their ideas on how to prevent the issue going forward. The key word there is "ask" as telling them how to change their behavior can create conflict. They’ll feel a sense of ownership if they choose how to move forward. They’ll likely come up with ideas you hadn’t thought of, which can help you learn. If it doesn’t seem like they’re coming up with strong solutions, offer suggestions. The goal isn't only to come up with ways they can change, but also identify ways that your behavior or the greater context could be adjusted to solve the problem.
 
 ### De-escalation
 
@@ -96,9 +96,17 @@ A few things you can do:
 
 Ask them to see if they feel heard and understood. Is anything coming up for them that they’d like to share? Confirm both of your agreed-upon action items for changing things going forward.
 
+Also take a moment to check in with yourself. Do you feel like you were successful? Did you meet your/your company's needs while keeping the relationship intact or even strengthening it?
+
 ### Follow up
 
 If the issues have improved down the road, recognize that, and express your appreciation to them. If not, check in with them and decide how to course-correct.
+
+### Conclusion
+
+At the end of the day, dealing with disagreements and conflicts in a productive way can strengthen relationships and is essential to succeeding in a leadership role. Whether you're just starting out or you're a seasoned leader, I hope you find these tips helpful and I wish you success and continual growth on your journey.
+
+![A Rainbow](https://user-images.githubusercontent.com/1427679/174394927-bb51d82a-dbb5-41c0-84ce-64ff4fe1d194.jpg)
 
 ### Footnotes
 
