@@ -2,8 +2,8 @@
 layout: post
 title: "Navigating Disagreements as a Leader"
 img: chris-sabor-qlaot0VrqTM-unsplash.jpg
-excerpt: What I wish I knew about disagreements as a new engineering leader
-subtitle: What I wish I knew about disagreements as a new engineering leader
+excerpt: What I wish I knew about conflict and delivering feedback as a new engineering leader
+subtitle: What I wish I knew about conflict and delivering feedback as a new engineering leader
 ---
 
 <img src="../images/chris-sabor-qlaot0VrqTM-unsplash.jpg" width="400" alt="Two birds fighting"/><br/>Don't be these birds.
