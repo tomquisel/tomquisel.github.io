@@ -2,11 +2,11 @@
 layout: post
 title: "Navigating Disagreements as a Leader"
 img: chris-sabor-qlaot0VrqTM-unsplash.jpg
-excerpt: What I wish I knew about conflict and delivering feedback as a new engineering leader
-subtitle: What I wish I knew about conflict and delivering feedback as a new engineering leader
+excerpt: What I wish I'd known about conflict and delivering feedback as a new engineering leader
+subtitle: What I wish I'd known about conflict and delivering feedback as a new engineering leader
 ---
 
-<img src="../images/chris-sabor-qlaot0VrqTM-unsplash.jpg" width="400" alt="Two birds fighting"/><br/>Don't be these birds.
+<img src="../images/chris-sabor-qlaot0VrqTM-unsplash.jpg" width="400" alt="Two birds fighting" class="img-fluid"/>Don't be these birds.
 
 I started leading the engineering team at OkCupid early in my career at the age of 24, after working for 3 years as a Software Engineer. It was an incredible opportunity to be given so much responsibility, but it came with many new challenges. Disagreements were new territory for me, and I found a variety of conversations ranging from giving feedback to salary negotiations to disagreeing about software design pretty uncomfortable.
 
