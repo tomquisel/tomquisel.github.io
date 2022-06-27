@@ -30,7 +30,7 @@ Take the opposite scenario. If you show up blaming the other person, feeling bit
 
 Have difficult 1:1 conversations in private. This helps to establish psychological safety by reducing the involvement of ego and the need to save face in front of others.
 
-Separately, for discussing incidents that are highly public or that involve many people (the classic example is a app-wide outage), a [Blameless Post Mortem](https://www.atlassian.com/incident-management/postmortem/blameless) will be more productive than a private conversation. 
+Separately, for discussing incidents that are highly public or that involve many people (the classic example is an app-wide outage), a [Blameless Post Mortem](https://www.atlassian.com/incident-management/postmortem/blameless) will be more productive than a private conversation. 
 
 Bringing up issues early, often, and in a supportive way can make them feel easy and casual. Small issues are often best dealt with using a quick, relaxed conversation. Bigger issues will need more time and setup.
 
@@ -52,7 +52,7 @@ You can also emphasize shared goals or context. For example, “we’ve both bee
 
 ### Begin with curiosity
 
-If there's a disagreement, you’ve likely misunderstood the situation, their intentions, or even their actions. Bring up the topic in a non-judgemental way and then listen to them with genuine curiosity. Practice active listening by paraphrasing what they’ve shared. You can tell you’re succeeding at listening rather than telling if you hear them say “that’s right” not “you’re right”.[^2]
+If there's a disagreement, you’ve likely misunderstood the situation, their intentions, or even their actions. Bring up the topic in a non-judgmental way and then listen to them with genuine curiosity. Practice active listening by paraphrasing what they’ve shared. You can tell you’re succeeding at listening rather than telling if you hear them say “that’s right” not “you’re right”.[^2]
 
 By listening first, you accomplish several goals:
 
@@ -73,7 +73,7 @@ People may magnify the seriousness of an issue or take it personally. If the iss
 
 When more detail is necessary, [Non-Violent Communication](https://www.clearerthinking.org/post/2019/03/06/want-to-improve-your-relationships-try-nonviolent-communication-1) (NVC) is a great way to phrase your desires. It avoids “you” statements and accusations, sticking to what you’ve observed and how it affects you.
 
-Other ways to keep it non-judgemental:
+Other ways to keep it non-judgmental:
 
 1. Avoid interpreting their behavior and making assumptions. Instead, ask them about their intentions.
 1. Focus on what can be changed going forward and avoid dredging up past events.
