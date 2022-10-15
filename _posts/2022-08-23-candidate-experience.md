@@ -6,7 +6,7 @@ excerpt: 7 tips to help you create a stellar candidate experience
 subtitle: 7 tips to help you create a stellar candidate experience
 ---
 
-![People walking on a rainbow](images/rainbow_walkers.png){.img-fluid}
+![People walking on a rainbow](/images/rainbow_walkers.png){: .img-fluid}
 Happy job seekers on their way
 
 Top job candidates receive many offers as they look for their next opportunity. But all is not lost, your company can stand out from the pack by providing an outstanding experience throughout the interview process. As salaries and bidding wars over candidates heat up in the current high-inflation environment, differentiating your company is more important than ever.
@@ -35,7 +35,7 @@ Clearly communicate the interview process up front. This includes the steps, tim
 
 ### 4. Form a real human connection
 
-![Fist bump](images/fist_bump.png){.img-fluid}
+![Fist bump](/images/fist_bump.png){: .img-fluid}
 
 From the very first contact, you want your candidates to feel respected and appreciated. This starts early on in an initial conversation with a recruiter who cares about your company mission, communicates it clearly, and begins to form a personal relationship with the candidate. It's fantastic for your recruiter to position themselves as the candidate's ally, ready to guide them through the interview process and look out for their needs.
 
@@ -53,8 +53,8 @@ Ensure that your interview panel is diverse, represents different kinds of peopl
 
 ### 7. Keep it comfy
 
-![Couch](images/couch.png){.img-fluid}
-Pillows on the interview couch - a nice touch 
+![Couch](/images/couch.png){: .img-fluid}
+Pillows on the interview couch—a nice touch 
 
 Take some time to design your interviews to be a pleasant experience:
 1. Add time for bio-breaks and keep candidates well fed and hydrated.
