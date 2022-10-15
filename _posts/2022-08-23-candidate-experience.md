@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crafting a delightful experience for job candidates"
+title: "Crafting the job candidate experience"
 img: rainbow_walkers.png
 excerpt: 7 tips to help you create a stellar candidate experience
 subtitle: 7 tips to help you create a stellar candidate experience
@@ -9,7 +9,7 @@ subtitle: 7 tips to help you create a stellar candidate experience
 ![People walking on a rainbow](/images/rainbow_walkers.png){: .img-fluid}
 Happy job seekers on their way
 
-Top job candidates receive many offers as they look for their next opportunity. But all is not lost, your company can stand out from the pack by providing an outstanding experience throughout the interview process. As salaries and bidding wars over candidates heat up in the current high-inflation environment, differentiating your company is more important than ever.
+Top job candidates receive many offers as they look for their next opportunity. Not to worry—your company can stand out from the pack by providing an outstanding experience throughout the interview process. As salaries and bidding wars over candidates heat up in the current high-inflation environment, differentiating your company is more important than ever.
 
 Executed well, a great experience will markedly increase your job offer acceptance rate. That means you need to interview fewer candidates, and you can spend more time on each qualified candidate to provide an even better experience.
 
