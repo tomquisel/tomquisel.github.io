@@ -6,6 +6,9 @@ permalink: /blog/
 <div class="row justify-content-start">
 {% for post in site.posts %}
     {% capture link %}{{ post.url | prepend: site.baseurl }}{% endcapture %}
+    {% if post.external_url %}
+        {% assign link = post.external_url %}
+    {% endif %}
     {% capture footer %}
     <small class="text-muted">
         {{ post.date | date: "%B %-d, %Y" }}

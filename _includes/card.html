@@ -6,7 +6,12 @@
         <!--Card image-->
         {% if include.img %}
             <div class="view">
-                <img src="{{site.baseurl}}/images/{{include.img}}" alt="">
+                {% assign img_url_start = include.img | slice: 0,4 %}
+                {% if img_url_start == 'http' %}
+                    <img src="{{include.img}}" alt="">
+                {% else %}
+                    <img src="{{site.baseurl}}/images/{{include.img}}" alt="">
+                {% endif %}
                 <a href="{{include.url}}" target="_blank">
                     <div class="mask"></div>
                 </a>
